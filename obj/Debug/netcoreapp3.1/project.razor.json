@@ -14392,6 +14392,11 @@
   "RootNamespace": "FinsList",
   "Documents": [
     {
+      "FilePath": "d:\\horse porn\\FinsList\\Views\\Home\\FinsReview.cshtml",
+      "TargetPath": "Views\\Home\\FinsReview.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\horse porn\\FinsList\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"

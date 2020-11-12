@@ -35,3 +35,4 @@ D:\horse porn\FinsList\obj\Debug\netcoreapp3.1\FinsList.dll
 D:\horse porn\FinsList\obj\Debug\netcoreapp3.1\FinsList.pdb
 D:\horse porn\FinsList\obj\Debug\netcoreapp3.1\FinsList.genruntimeconfig.cache
 D:\horse porn\FinsList\obj\Debug\netcoreapp3.1\FinsList.csproj.CopyComplete
+D:\horse porn\FinsList\obj\Debug\netcoreapp3.1\Razor\Views\Home\FinsReview.cshtml.g.cs

@@ -18,7 +18,15 @@ namespace FinsList.Controllers
             _logger = logger;
         }
 
+        [Route("Index")]
+        [Route("Home")]
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        [Route("FinsReview")]
+        public IActionResult FinsReview()
         {
             return View();
         }
